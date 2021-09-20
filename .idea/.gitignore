@@ -6,6 +6,3 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-# Ignoring some languages
-*.html linguist-detectable=false
-*.htm inguist-detectable=false
