@@ -1,0 +1,4 @@
+# Ignoring some languages
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.css linguist-detectable=false
