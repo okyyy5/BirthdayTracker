@@ -26,7 +26,7 @@ Consult the Technical Report for the User Manual.
 
 ### Credits
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Oktay%20Turdu&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foktay-turdu%2F">
+<a href="https://www.linkedin.com/in/oktay-turdu/">Oktay Turdu</a>
 
 ### Licence
 
