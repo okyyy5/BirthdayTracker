@@ -1,6 +1,7 @@
 # Ignoring some languages
 * linguist-vendored
-*.js linguist-vendored=false
+*.java linguist-detectable=true
+*.js linguist-detectable=true
 *.html linguist-detectable=false
-*.htm linguist-detectable=false
+*.htm linguist-detectable=true
 *.css linguist-detectable=false
